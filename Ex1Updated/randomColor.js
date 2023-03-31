@@ -34,8 +34,7 @@ if (flag != 0) {
   catch (err) {
     console.log("No file found");
   }
-  var final = JSON.parse(randomizedColorsFile);
-  console.log(final);
+  randomizedColorsFile = JSON.parse(randomizedColorsFile);
+  console.log(randomizedColorsFile);
   console.log("Finished running program.");
-
 }
