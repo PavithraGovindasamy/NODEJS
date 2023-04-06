@@ -1,0 +1,17 @@
+[
+    {
+        "employeeId": "1",
+        "realName": "pavihra",
+        "nickName": "wsandy",
+        "dob": "4/4/2000",
+        "hobbies": "singing"
+    },
+    {
+        "employeeId": "2",
+        "realName": "pavi",
+        "nickName": "pavithekavi",
+        "dob": "9/2/2002",
+        "hobbies": "writing poems"
+    },
+    {}
+]
